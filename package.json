@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@clerk/nextjs": "^6.11.3"
+  },
+  "name": "ai-finance-tracking-main",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
